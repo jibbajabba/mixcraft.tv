@@ -1,0 +1,67 @@
+{
+  "Basic Blending": {
+    "iconName": "Disc3",
+    "description": "Master the fundamental skill of seamlessly transitioning between tracks using volume and EQ controls.",
+    "tip": "Start with tracks in similar BPM ranges for smoother transitions."
+  },
+  "Beatmatching": {
+    "iconName": "Waves",
+    "description": "Learn to synchronize the tempo and beats of two tracks for perfect transitions.",
+    "tip": "Practice identifying the first beat of each bar to align tracks correctly."
+  },
+  "Build-Up/Breakdown": {
+    "iconName": "ArrowUpDown",
+    "description": "Create dynamic energy shifts by layering build-ups and breakdowns from multiple tracks.",
+    "tip": "Use EQ to emphasize different elements during transitions."
+  },
+  "Double Drop": {
+    "iconName": "Combine",
+    "description": "Drop two tracks simultaneously for maximum impact on the dancefloor.",
+    "tip": "Ensure both tracks are harmonically compatible for the best effect."
+  },
+  "Drop Swapping": {
+    "iconName": "Split",
+    "description": "Switch between drops of different tracks to create unique combinations.",
+    "tip": "Practice quick volume adjustments for clean swaps."
+  },
+  "EQ Mixing": {
+    "iconName": "Sliders",
+    "description": "Control different frequency ranges to blend tracks professionally.",
+    "tip": "Start by swapping similar frequencies between tracks."
+  },
+  "Filter Transition": {
+    "iconName": "Filter",
+    "description": "Use high-pass and low-pass filters for creative mixing effects.",
+    "tip": "Combine filter sweeps with EQ adjustments for smoother transitions."
+  },
+  "Harmonic Mixing": {
+    "iconName": "Music2",
+    "description": "Mix tracks that are in compatible musical keys for professional-sounding sets.",
+    "tip": "Use the Camelot Wheel to find harmonically compatible tracks."
+  },
+  "Looping": {
+    "iconName": "Repeat",
+    "description": "Create perfect loops to extend sections or create unique transitions.",
+    "tip": "Practice setting loop points on phrase boundaries."
+  },
+  "Mashups & Remixing": {
+    "iconName": "Layers",
+    "description": "Combine elements from multiple tracks to create unique live mashups.",
+    "tip": "Focus on tracks with strong acapellas or instrumental sections."
+  },
+  "Quick Transitions": {
+    "iconName": "Volume2",
+    "description": "Use quick effects effects like echo to create quick transitions.",
+    "tip": "Time your echo outs with the phrase length of the incoming track."
+  },
+  "Slip Mode": {
+    "iconName": "ChevronsDown",
+    "description": "Manipulate playback while maintaining the original timeline.",
+    "tip": "Use slip mode for scratching without losing phrase alignment."
+  },
+  "Spinback": {
+    "iconName": "Shell",
+    "description": "Create dramatic transitions using reverse platter effects.",
+    "tip": "Time your spinbacks with the phrase end of the outgoing track."
+  }
+}

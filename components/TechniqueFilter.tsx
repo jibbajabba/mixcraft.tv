@@ -14,12 +14,15 @@ const techniques = [
   'Basics',
   'Beatmatching',
   // 'Build-Up/Breakdown',
-  'EQing',
-  'Double Drop',
-  'Drop Swapping',
-  'Harmonic Mixing',
-  'Looping',
-  'Quick Transitions'
+  'EQ',
+  'FX',
+  'Drops',
+  'Key',
+  'Loops',
+  // 'Quick Transitions',
+  'Scratching',
+  'Stems',
+  'Tone Play'
   // 'Turntablism'
 ];
 
@@ -44,7 +47,7 @@ export default function TechniqueFilter({
             key={technique}
             variant={technique === selectedTechnique ? 'default' : 'outline'}
             className={`
-              text-xs px-[10px] py-[10px] rounded-[20px] transition-all duration-200 h-7
+              text-sm px-[1em] py-[1em] rounded-[2em] transition-all duration-200 h-7
               ${
                 technique === selectedTechnique
                   ? 'bg-blue-600 text-white hover:bg-blue-700'

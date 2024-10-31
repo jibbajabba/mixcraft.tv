@@ -11,14 +11,16 @@ import {
 
 const techniques = [
   'All',
-  'Basic Blending',
+  'Basics',
   'Beatmatching',
-  'Build-Up/Breakdown',
+  // 'Build-Up/Breakdown',
+  'EQing',
   'Double Drop',
   'Drop Swapping',
   'Harmonic Mixing',
   'Looping',
-  'Quick Transitions',
+  'Quick Transitions'
+  // 'Turntablism'
 ];
 
 interface TechniqueFilterProps {

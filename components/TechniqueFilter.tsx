@@ -21,8 +21,8 @@ const techniques = [
   'Loops',
   // 'Quick Transitions',
   'Scratching',
-  'Stems',
-  'Tone Play'
+  'Stems'
+  // 'Tone Play'
   // 'Turntablism'
 ];
 
